@@ -1,3 +1,7 @@
+# graph
+![overview image](https://github.com/Quasi-quant2010/SVRG/blob/master/result/loss.png?raw=true)
+![overview image](https://github.com/Quasi-quant2010/SVRG/blob/master/result/convergence.png?raw=true)
+
 # Required Libaray
 ## Centos
 - CentOS release 6.9 (Final)
